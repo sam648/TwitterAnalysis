@@ -1,0 +1,10 @@
+name: Twitter_Analysis2
+account: samriddhishakya
+server: shinyapps.io
+appId: 128544
+bundleId: 572199
+url: https://samriddhishakya.shinyapps.io/Twitter_Analysis2/
+when: 1475168292.02657
+asMultiple: FALSE
+asStatic: FALSE
+ignoredFiles: Twitter Analysis.pptx|twitter.R|www/T_C.txt
